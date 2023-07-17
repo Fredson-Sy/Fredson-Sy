@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fredson-Sy
 - 👀 I’m interested in HTML, CSS, Js, Python, C# e C++
 - 🌱 I’m currently learning HTML, CSS e Js
-- 💞️ I’m looking to collaborate on ...
 
 <div>
   <a herf="https://bacons.ai/fredson-sy">
